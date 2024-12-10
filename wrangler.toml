@@ -1,4 +1,4 @@
-name = "laswayne"
+name = "lxswy"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 PROXYIP = "35.185.180.129"
-UUID = "c2987ac0-6b06-4ed6-a485-6ff487c29891"
+UUID = "ae15f0c2-51e3-44bc-94fd-2143dcab19cd"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
