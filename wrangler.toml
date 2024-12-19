@@ -9,7 +9,7 @@ pattern = "support.zoom.us.laswayne.us.kg"
 custom_domain = true
 
 [vars]
-PROXYIP = "83.142.30.5:2096"
-UUID = "c68d755c-5220-4635-803f-52bb7c73b944"
+PROXYIP = "103.168.146.169"
+UUID = "1f86f84d-0371-44ca-9b72-18058730aca5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
