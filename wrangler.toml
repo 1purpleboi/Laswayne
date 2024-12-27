@@ -7,9 +7,12 @@ custom_domain = true
 [[routes]]
 pattern = "support.zoom.us.laswayne.us.kg"
 custom_domain = true
+[[routes]]
+pattern = "io.ruangguru.com.laswayne.us.kg"
+custom_domain = true
 
 [vars]
-PROXYIP = "103.168.146.169"
+PROXYIP = "103.133.223.51"
 UUID = "1f86f84d-0371-44ca-9b72-18058730aca5"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
